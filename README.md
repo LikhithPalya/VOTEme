@@ -23,7 +23,7 @@ This is a backend application for a voting system where users can vote for candi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/LikhithPalya/voteME.git
+   git clone https://github.com/LikhithPalya/voteMe.git
 
 
 # API Endpoints
